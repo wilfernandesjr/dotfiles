@@ -1,17 +1,17 @@
-# Terminal bonitista no Mac
+# Terminal Otimizado no Mac
 
 ### Tema do Terminal
 
 ![Tema IR_Black](http://f.cl.ly/items/2W0T1d2s3N3s251N221d/Terminal%20IR_Black.png)
 
-Para deixar as cores do terminal mais legíveis [baixe o tema IR_Black](IR_Black.terminal) e instale-o
+Para deixar as cores do terminal mais legíveis um dos temas na pasta Temas do projeto e instale-o
 clicando duas vezes no arquivo. Caso prefira, existem muitos outros disponíveis pela internet.
 
 Em seguida, abra o Terminal, vá em Preferências e selecione o tema na lista de Perfis e defina-o como padrão.
 
 ### Configuração de cores e outras facilidades
 
-Copie os arquivos abaixo para a pasta do seu usuário. Exemplo: `/Users/fulano`.
+Copie os arquivos abaixo para a pasta do seu usuário. Exemplo: `/Users/John Doe`.
 
 Arquivos incluídos:
 
